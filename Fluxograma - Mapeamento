@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T22:17:53.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ezEwJcFXoAfU2-DoDRox" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T22:33:43.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_PwHowbXuQSX7lQfmJuS" version="14.8.1" type="github">
   <diagram id="-hDJSWc-SBYr7YOpXsGS" name="Page-1">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,23 +13,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJoZjzqrQb9Krc7BOXk6-8" value="" style="group;container=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="20" width="550" height="460" as="geometry" />
+          <mxGeometry x="530" y="20" width="1130" height="460" as="geometry" />
         </mxCell>
         <mxCell id="GJoZjzqrQb9Krc7BOXk6-2" value="Automatização do Maquinário" style="rounded=1;whiteSpace=wrap;html=1;container=1;verticalAlign=top;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-8">
-          <mxGeometry width="550" height="460" as="geometry">
+          <mxGeometry width="1130" height="460" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJoZjzqrQb9Krc7BOXk6-12" value="Análise Inicial" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=1;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-2">
-          <mxGeometry x="20.370370370370374" y="59.35483870967742" width="264.81481481481484" height="296.7741935483871" as="geometry">
-            <mxRectangle x="20.370370370370374" y="59.35483870967742" width="110" height="20" as="alternateBounds" />
+          <mxGeometry x="41.85" y="59.35" width="530" height="190.65" as="geometry">
+            <mxRectangle x="41.851090909090914" y="59.35" width="110" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJoZjzqrQb9Krc7BOXk6-13" value="Analisar modelo das máquinas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-12">
-          <mxGeometry x="30.56" y="50.650000000000006" width="89.44" height="40.65" as="geometry" />
+        <mxCell id="GJoZjzqrQb9Krc7BOXk6-37" value="&#xa;&#xa;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;Mapeamento do Maquinário&lt;/b&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Deve-se elencar todas as máquinas presentes no ambiente de trabalho e anotar informações sobres quais processos ao ao redor daquele equipamento são autoamtizados ou manaus,&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-12">
+          <mxGeometry x="7.724827750555358" y="32.53840516224686" width="145.49489622740236" height="38.5450011793645" as="geometry" />
         </mxCell>
-        <mxCell id="GJoZjzqrQb9Krc7BOXk6-14" value="Obter manuais dos equipamentos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-12">
-          <mxGeometry x="30.555555555555557" y="163.22580645161287" width="203.70370370370372" height="74.19354838709677" as="geometry" />
+        <mxCell id="GJoZjzqrQb9Krc7BOXk6-14" value="&lt;b&gt;Coleta dos manuais&lt;/b&gt;&lt;br&gt;Nessa etapa é necessário obter os manuais de cada equipamento, portanto é importante mapear o modelo para coletar tais informações" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="GJoZjzqrQb9Krc7BOXk6-12">
+          <mxGeometry x="158.74" y="29.33" width="321.26" height="70.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
