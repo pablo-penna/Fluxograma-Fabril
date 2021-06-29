@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T22:51:26.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0vbT0CB13jCjmGq1hDw6" version="14.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-29T22:58:27.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="uPZVli4-NxEEJNGTzU-N" version="14.8.1" type="github" pages="2">
   <diagram id="-hDJSWc-SBYr7YOpXsGS" name="V1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,9 +262,6 @@
             <mxRectangle x="1500" y="460" width="670" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-36" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; text-indent: 35.4pt ; line-height: normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;AUTOMATIZAÇÃO DO MAQUINÁRIO:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: normal&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Analisar se os o nível de autonomia dos equipamentos, se&lt;br&gt;são automatizados a ponto de realizar as atividades sem a presença humana, ou&lt;br&gt;exigem um operador dedicado por inteiro ou parcialmente para realizar a produção.&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lDEH7zT7SCrTScgL1g7C-35">
-          <mxGeometry x="319" y="30" width="638" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="lDEH7zT7SCrTScgL1g7C-37" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; text-indent: 35.4pt ; line-height: normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;VISUALIZAÇÃO DAS INFORMAÇÕES:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: normal&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Verificar se as máquinas possuem alguma tela ou visor no&lt;br&gt;qual é possível expor informações sobre o andamento do processo.&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="lDEH7zT7SCrTScgL1g7C-35">
           <mxGeometry x="17.138" y="160" width="411.862" height="80" as="geometry" />
         </mxCell>
@@ -277,8 +274,10 @@
         <mxCell id="lDEH7zT7SCrTScgL1g7C-40" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; text-indent: 35.4pt ; line-height: normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;AUTOMATIZAÇÃO DO PROCESSO:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; text-indent: 35.4pt ; line-height: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 9pt ; text-indent: 35.4pt&quot;&gt;Analisar o processo produtivo como&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 9pt&quot;&gt;um todo e avaliar as atividades dos operadores, se há sistemas que auxiliem na&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 9pt&quot;&gt;gestão das atividades, o grau de automatização nos processos entre máquinas e nas&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 9pt&quot;&gt;etapas de verificação da qualidade.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; line-height: normal&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: normal&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="lDEH7zT7SCrTScgL1g7C-35">
           <mxGeometry x="417" y="270" width="540" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lDEH7zT7SCrTScgL1g7C-1" source="lDEH7zT7SCrTScgL1g7C-36" target="lDEH7zT7SCrTScgL1g7C-32">
-          <mxGeometry x="20" as="geometry" />
+        <mxCell id="lDEH7zT7SCrTScgL1g7C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lDEH7zT7SCrTScgL1g7C-1" target="lDEH7zT7SCrTScgL1g7C-32">
+          <mxGeometry x="20" as="geometry">
+            <mxPoint x="1257" y="555" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dppBB2rNznpVZxOVKmov-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lDEH7zT7SCrTScgL1g7C-1" source="dppBB2rNznpVZxOVKmov-0" target="dppBB2rNznpVZxOVKmov-7">
           <mxGeometry relative="1" as="geometry" />
@@ -308,13 +307,25 @@
           <mxGeometry x="350" y="90" width="43.5" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="dppBB2rNznpVZxOVKmov-10" value="Automatização do Maquinário" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="lDEH7zT7SCrTScgL1g7C-1">
-          <mxGeometry x="70" y="230" width="213.6" height="173.1239097744361" as="geometry" />
+          <mxGeometry x="40" y="226.88" width="213.6" height="173.1239097744361" as="geometry" />
         </mxCell>
         <mxCell id="dppBB2rNznpVZxOVKmov-11" value="- Analisar nível de automatização do maquinário" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="dppBB2rNznpVZxOVKmov-10">
           <mxGeometry y="26" width="213.6" height="35.56390977443609" as="geometry" />
         </mxCell>
         <mxCell id="dppBB2rNznpVZxOVKmov-12" value="- Mensurar necessidade de intervenção humana na operação da máquina&#xa;&#xa;- Necessidade de operador dedicado ou parcial&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="dppBB2rNznpVZxOVKmov-10">
           <mxGeometry y="61.56390977443609" width="213.6" height="111.56" as="geometry" />
+        </mxCell>
+        <mxCell id="dppBB2rNznpVZxOVKmov-16" value="Visualização das Informações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;" vertex="1" parent="lDEH7zT7SCrTScgL1g7C-1">
+          <mxGeometry x="290" y="226.88" width="213.6" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dppBB2rNznpVZxOVKmov-17" value="- Avaliar presença de IHM nas máquinas, que permita acompanhar o andamento do processo&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="dppBB2rNznpVZxOVKmov-16">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="dppBB2rNznpVZxOVKmov-18" value="- Observar presença de telas distribuídas pela empresa com dados da produção do momento&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="dppBB2rNznpVZxOVKmov-16">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dppBB2rNznpVZxOVKmov-19" value="- Questionar sobre uso de Realidade Aumenta, como auxílio na produção" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="dppBB2rNznpVZxOVKmov-16">
+          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
