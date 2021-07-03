@@ -1,11 +1,177 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T18:31:33.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="PpPc_WlqvciCK8Vb2XjW" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-03T19:22:33.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="xePHu3eWtku6IaxEbvXQ" version="14.8.4" type="github" pages="3">
+  <diagram name="V3" id="4r5GuAT5PZa9B6LZIGdJ">
+    <mxGraphModel dx="1346" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-0" />
+        <mxCell id="isWovIk_fnL1snS7_2ZL-1" parent="isWovIk_fnL1snS7_2ZL-0" />
+        <mxCell id="isWovIk_fnL1snS7_2ZL-2" value="QUESTIONÁRIO" style="rounded=0;verticalAlign=top;container=1;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="1600" y="10" width="1350" height="750" as="geometry">
+            <mxRectangle x="3650" y="400" width="130" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-4" target="isWovIk_fnL1snS7_2ZL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-4" value="Existem processos manuais?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="391.93548387096774" y="49" width="174.1935483870968" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-7" target="isWovIk_fnL1snS7_2ZL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-7" target="isWovIk_fnL1snS7_2ZL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-7" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="232.25806451612905" y="39" width="116.12903225806453" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-9" target="isWovIk_fnL1snS7_2ZL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-9" value="Existem processos automatizados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="17.419354838709683" y="49" width="174.1935483870968" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-10" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="217.741935483871" y="109" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-11" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="254.03225806451616" y="135" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-12" value="Existem processos automatizados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="17.419354838709683" y="49" width="174.1935483870968" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-13" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="232.25806451612905" y="39" width="116.12903225806453" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-14" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="217.741935483871" y="109" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-15" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="195.96421098517874" y="56" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-17" target="isWovIk_fnL1snS7_2ZL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-17" value="Permite controlar remotamente?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="798.3870967741937" y="49" width="174.1935483870968" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-20" target="isWovIk_fnL1snS7_2ZL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-20" target="isWovIk_fnL1snS7_2ZL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-20" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="624.1935483870968" y="39" width="116.12903225806453" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-21" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="740.3233653007848" y="55.5" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-22" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="620.2753705318222" y="122.5" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-23" value="Permite controlar remotamente?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="1175.8064516129034" y="49" width="174.1935483870968" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-24" value="Nível 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="1065.829019851117" y="150" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-25" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="1033.7236972704718" y="122.5" width="58.06451612903226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-26" value="Nível 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="656.2963027295285" y="142.5" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-27" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-2">
+          <mxGeometry x="1033.7221339950374" y="39" width="116.12903225806453" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-27" target="isWovIk_fnL1snS7_2ZL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-2" source="isWovIk_fnL1snS7_2ZL-27" target="isWovIk_fnL1snS7_2ZL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-31" value="Mapeamento do Maquinário" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="35" y="90" width="213.6" height="85.81203007518798" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-32" value="- Listar máquinas presentes no setor" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-31">
+          <mxGeometry y="26" width="213.6" height="35.56390977443609" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-33" value="- Nomear pelo nome do modelo&#xa;" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-31">
+          <mxGeometry y="61.56390977443609" width="213.6" height="24.248120300751882" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-35" value="Coleta dos Manuais" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="30" y="230" width="223.6" height="101.97744360902256" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-36" value="- Localizar manuais de instruções fornecidos pelo fabricante" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-35">
+          <mxGeometry y="26" width="223.6" height="35.56390977443609" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-37" value="- Selecionar manuais direcionados as funcionalidades ou conectividade" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-35">
+          <mxGeometry y="61.56390977443609" width="223.6" height="40.41353383458647" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-45" value="Visualização das Informações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="330" y="203" width="213.6" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-46" value="- Avaliar presença de IHM nas máquinas, que permita acompanhar o andamento do processo&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-45">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-47" value="- Observar presença de telas distribuídas pela empresa com dados da produção do momento&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-45">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-48" value="- Questionar sobre uso de Realidade Aumenta, como auxílio na produção" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-45">
+          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-53" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="581.4" y="400" width="213.6" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-54" value="- Buscar capítulo com informações sobre o controlador" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-53">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-55" value="- Analisar a presença de funcionalidades para controlar remotamente o equipamento" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-53">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-56" value="- Verificar presença de IHM remota" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-53">
+          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-61" value="&lt;b&gt;PROTOCOLOS:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="620.7" y="610" width="135" height="108.57" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-62" value="&lt;b&gt;SENSORES:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="620.7" y="760" width="135" height="108.57" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-65" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="330" y="405" width="213.6" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-66" value="- Avaliar atividade dos operadores" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-65">
+          <mxGeometry y="26" width="213.6" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-67" value="- Presença de sistemas auxiliando a produção " style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-65">
+          <mxGeometry y="70" width="213.6" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-68" value="- Automatização na etapa entre máquinas&#xa;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-65">
+          <mxGeometry y="120" width="213.6" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-69" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="330" y="9" width="213.6" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-70" value="- Analisar nível de automatização do maquinário" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-69">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-71" value="- Mensurar necessidade de intervenção humana na operação da máquina" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-69">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-72" value="- Necessidade de operador dedicado ou parcial&#xa;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-69">
+          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="V2" id="rOI0jT-ifFcXz6yhmUdy">
-    <mxGraphModel dx="1884" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lDEH7zT7SCrTScgL1g7C-0" />
         <mxCell id="lDEH7zT7SCrTScgL1g7C-1" parent="lDEH7zT7SCrTScgL1g7C-0" />
         <mxCell id="lDEH7zT7SCrTScgL1g7C-2" value="QUESTIONÁRIO" style="rounded=0;verticalAlign=top;container=1;" parent="lDEH7zT7SCrTScgL1g7C-1" vertex="1">
-          <mxGeometry x="3650" y="400" width="1350" height="750" as="geometry">
+          <mxGeometry x="150" y="970" width="1350" height="750" as="geometry">
             <mxRectangle x="3650" y="400" width="130" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -89,19 +255,6 @@
         </mxCell>
         <mxCell id="lDEH7zT7SCrTScgL1g7C-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lDEH7zT7SCrTScgL1g7C-2" source="lDEH7zT7SCrTScgL1g7C-27" target="lDEH7zT7SCrTScgL1g7C-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lDEH7zT7SCrTScgL1g7C-1" target="lDEH7zT7SCrTScgL1g7C-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1548.6399999999999" y="421.79999999999995" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Informações nos Manuais&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=1;" parent="lDEH7zT7SCrTScgL1g7C-1" vertex="1">
-          <mxGeometry x="980" y="330" width="670" height="760" as="geometry">
-            <mxRectangle x="2230" y="380" width="670" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-34" value="&lt;b&gt;SENSORES:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="lDEH7zT7SCrTScgL1g7C-31" vertex="1">
-          <mxGeometry x="280" y="610" width="135" height="108.57" as="geometry" />
         </mxCell>
         <mxCell id="dppBB2rNznpVZxOVKmov-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lDEH7zT7SCrTScgL1g7C-1" source="dppBB2rNznpVZxOVKmov-0" target="dppBB2rNznpVZxOVKmov-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,8 +359,11 @@
         <mxCell id="3J4p1rtcDA6mLA_cgu74-7" value="- Verificar presença de IHM remota" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="3J4p1rtcDA6mLA_cgu74-4">
           <mxGeometry y="140" width="213.6" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDEH7zT7SCrTScgL1g7C-33" value="&lt;b&gt;PROTOCOLOS:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lDEH7zT7SCrTScgL1g7C-1" vertex="1">
-          <mxGeometry x="220" y="655.71" width="135" height="108.57" as="geometry" />
+        <mxCell id="lDEH7zT7SCrTScgL1g7C-33" value="&lt;b&gt;PROTOCOLOS:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="lDEH7zT7SCrTScgL1g7C-1" vertex="1">
+          <mxGeometry x="190" y="560" width="135" height="108.57" as="geometry" />
+        </mxCell>
+        <mxCell id="lDEH7zT7SCrTScgL1g7C-34" value="&lt;b&gt;SENSORES:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="lDEH7zT7SCrTScgL1g7C-1" vertex="1">
+          <mxGeometry x="30" y="640" width="135" height="108.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
