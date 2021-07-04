@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T13:22:15.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="0yB5kqp5tRMON-zUWO2X" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-04T14:53:40.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="oR7Jk-LJzsViJkRCzul9" version="14.8.4" type="github" pages="3">
   <diagram name="V3" id="4r5GuAT5PZa9B6LZIGdJ">
-    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="isWovIk_fnL1snS7_2ZL-0" />
         <mxCell id="isWovIk_fnL1snS7_2ZL-1" parent="isWovIk_fnL1snS7_2ZL-0" />
@@ -45,12 +45,6 @@
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-56" value="- Verificar presença de IHM remota" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-53">
           <mxGeometry y="140" width="213.6" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-61" value="&lt;b&gt;PROTOCOLOS:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
-          <mxGeometry x="620.7" y="640" width="135" height="108.57" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-62" value="&lt;b&gt;SENSORES:&lt;br&gt;&lt;/b&gt;(Desenvolver)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
-          <mxGeometry x="620.7" y="790" width="135" height="108.57" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-65" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
           <mxGeometry x="330" y="440" width="213.6" height="170" as="geometry" />
@@ -379,6 +373,27 @@
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-273" value="Nível 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
           <mxGeometry x="2109.8663027295283" y="67.9" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-281" value="Protocolos de Comunicação" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="330" y="687.2" width="213.6" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-282" value="- Mapear protocolos utilizados no setor" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-281">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-283" value="- Coletar manual dos controladores, direcionados a parte da comunicação" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-281">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-291" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-1">
+          <mxGeometry x="570" y="687.2" width="213.6" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-292" value="- Elencar protocolos sugeridos pelo fabricante" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-291">
+          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-293" value="- Mapear necessidade de módulos adicionais necessários para cada protocolo" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-291">
+          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWovIk_fnL1snS7_2ZL-294" value="- Portas I/O do controlador, para troca de dados" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="isWovIk_fnL1snS7_2ZL-291">
+          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
