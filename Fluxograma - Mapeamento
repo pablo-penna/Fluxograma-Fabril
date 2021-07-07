@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T23:19:10.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="rcQy97_vogNS7279yqJT" version="14.8.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-07T23:25:20.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="M2hz40yUsh6ClQnPEmTs" version="14.8.4" type="github" pages="4">
   <diagram name="V3 - P2" id="xKPJ8AlDFoONgkA5Blu5">
     <mxGraphModel dx="1108" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,29 +9,14 @@
             <mxPoint x="543.5999999999999" y="311.3529411764706" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-12" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
-          <mxGeometry x="570" y="440" width="213.6" height="180" as="geometry" />
+        <mxCell id="7NEQk-AcwJHbyD1cbY5C-12" value="Softwares de Gerenciamento" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
+          <mxGeometry x="570" y="440" width="213.6" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-13" value="- Buscar capítulo com informações sobre o controlador" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-12" vertex="1">
-          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-14" value="- Analisar a presença de funcionalidades para controlar remotamente o equipamento" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-12" vertex="1">
-          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-15" value="- Verificar presença de IHM remota" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-12" vertex="1">
-          <mxGeometry y="140" width="213.6" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-16" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
-          <mxGeometry x="330" y="440" width="213.6" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-17" value="- Avaliar atividade dos operadores" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-16" vertex="1">
+        <mxCell id="7NEQk-AcwJHbyD1cbY5C-13" value="- Mapear softwares utilizados para comunicação e análise de dados" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-12" vertex="1">
           <mxGeometry y="26" width="213.6" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-18" value="- Presença de sistemas auxiliando a produção " style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-16" vertex="1">
-          <mxGeometry y="70" width="213.6" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-19" value="- Automatização na etapa entre máquinas&#xa;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-16" vertex="1">
-          <mxGeometry y="120" width="213.6" height="50" as="geometry" />
+        <mxCell id="7NEQk-AcwJHbyD1cbY5C-15" value="- Categorizar conforme as funcionalidades" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="7NEQk-AcwJHbyD1cbY5C-12" vertex="1">
+          <mxGeometry y="70" width="213.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7NEQk-AcwJHbyD1cbY5C-25" value="Existem processos manuais?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
           <mxGeometry x="1152.9954838709677" y="64.9" width="174.1935483870968" height="60" as="geometry" />
