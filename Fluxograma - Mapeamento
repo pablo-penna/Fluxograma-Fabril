@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:13:02.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="RS1bYXLrWSbyhAKTttoh" version="14.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-11T12:14:02.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DIWeNoR0XUuNJ__gocdS" version="14.8.5" type="github" pages="5">
   <diagram name="V3 - P1" id="4r5GuAT5PZa9B6LZIGdJ">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1439,52 +1439,52 @@
         <mxCell id="WH3F5GCjrzszAMd4pwZS-177" value="- Seleção de máquinas CNC" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-174">
           <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-183" value="" style="group" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-183" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
           <mxGeometry x="330" y="90" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-178" value="Estruturação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-183">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-178" value="Estruturação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-183">
           <mxGeometry width="200" height="139.99857142857144" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-179" value="- Definição do cenário ideal" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-179" value="- Definição do cenário ideal" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
           <mxGeometry y="26" width="200" height="27.428571428571427" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-180" value="- Criação dos níveis itermediários" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-180" value="- Criação dos níveis itermediários" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
           <mxGeometry y="53.42857142857143" width="200" height="36.57" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-181" value="- Construção da tabela e gráficos" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-181" value="- Construção da tabela e gráficos" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-178">
           <mxGeometry y="89.99857142857144" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-182" value="- Elaborar guia técnico" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-183">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-182" value="- Elaborar guia técnico" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-183">
           <mxGeometry y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-190" value="" style="group" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
           <mxGeometry x="920" y="100" width="213.60000000000002" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-191" value="Proposta de Adequações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-190">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-191" value="Proposta de Adequações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-190">
           <mxGeometry x="10" y="-5" width="213.6" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-192" value="- Seleção dos tópicos para adequação" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-192" value="- Seleção dos tópicos para adequação" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
           <mxGeometry y="26" width="213.6" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-193" value="- Definição das tecnologias" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-193" value="- Definição das tecnologias" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
           <mxGeometry y="70" width="213.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-194" value="- Próximas etapas" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-194" value="- Próximas etapas" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
           <mxGeometry y="100" width="213.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-185" target="WH3F5GCjrzszAMd4pwZS-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-185" value="Aplicação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-185" value="Aplicação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
           <mxGeometry x="630" y="90" width="199.99999999999997" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-186" value="- Análise dos manuais técnicos das máquinas" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-186" value="- Análise dos manuais técnicos das máquinas" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
           <mxGeometry y="26" width="199.99999999999997" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-187" value="- Enquadrar nos níveis" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-187" value="- Enquadrar nos níveis" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
           <mxGeometry y="70" width="199.99999999999997" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-188" value="- Análise de trabalhos com máquinas semelhantes&#xa;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-188" value="- Análise de trabalhos com máquinas semelhantes&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-185">
           <mxGeometry y="100" width="199.99999999999997" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-178" target="WH3F5GCjrzszAMd4pwZS-185">
