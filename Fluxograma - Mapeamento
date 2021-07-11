@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:02:03.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cZJjT3rEq1LAccE2gvVt" version="14.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-11T12:10:34.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DLetjcvzf_ShGyTsJo_8" version="14.8.5" type="github" pages="5">
   <diagram name="V3 - P1" id="4r5GuAT5PZa9B6LZIGdJ">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1420,7 +1420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Metodologia" id="YLmV6TBlqWY2d9xGgM-X">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1786" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-0" />
         <mxCell id="WH3F5GCjrzszAMd4pwZS-1" parent="WH3F5GCjrzszAMd4pwZS-0" />
@@ -1437,7 +1437,7 @@
           <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-183" value="" style="group" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="213" y="80" width="200" height="160" as="geometry" />
+          <mxGeometry x="210" y="80" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-178" value="Estruturação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-183">
           <mxGeometry width="200" height="139.99857142857144" as="geometry" />
@@ -1455,7 +1455,7 @@
           <mxGeometry y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-184" value="" style="group" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="430" y="90" width="200" height="140" as="geometry" />
+          <mxGeometry x="400" y="90" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-185" value="Aplicação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-184">
           <mxGeometry width="199.99999999999997" height="140" as="geometry" />
@@ -1470,19 +1470,19 @@
           <mxGeometry y="100" width="199.99999999999997" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-190" value="" style="group" vertex="1" connectable="0" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="650" y="100" width="200" height="140" as="geometry" />
+          <mxGeometry x="700" y="110" width="213.60000000000002" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-191" value="Proposta de Adequações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-190">
-          <mxGeometry width="199.99999999999997" height="130" as="geometry" />
+          <mxGeometry width="213.6" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-192" value="- Seleção dos tópicos para adequação" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
-          <mxGeometry y="26" width="199.99999999999997" height="44" as="geometry" />
+          <mxGeometry y="26" width="213.6" height="44" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-193" value="- Definição das tecnologias" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
-          <mxGeometry y="70" width="199.99999999999997" height="30" as="geometry" />
+          <mxGeometry y="70" width="213.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-194" value="- Próximas etapas" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-191">
-          <mxGeometry y="100" width="199.99999999999997" height="30" as="geometry" />
+          <mxGeometry y="100" width="213.6" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
