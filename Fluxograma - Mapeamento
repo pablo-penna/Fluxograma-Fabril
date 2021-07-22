@@ -1,92 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T19:34:32.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ewPbQZnkmZsr2i0wdkHj" version="14.8.5" type="github" pages="5">
-  <diagram name="Metodologia" id="YLmV6TBlqWY2d9xGgM-X">
-    <mxGraphModel dx="1221" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-0" />
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-1" parent="WH3F5GCjrzszAMd4pwZS-0" />
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-174" target="WH3F5GCjrzszAMd4pwZS-180" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-174" value="Pesquisas" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
-          <mxGeometry x="20" y="91.71" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-175" value="- Seleção de modelos de maturidade correlatos" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
-          <mxGeometry y="26" width="200" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-176" value="- Mapeamento das principais tecnologias da I4.0" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
-          <mxGeometry y="70" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-177" value="- Seleção de máquinas CNC" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
-          <mxGeometry y="110" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-183" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1" connectable="0">
-          <mxGeometry x="330" y="90" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-178" value="Estruturação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WH3F5GCjrzszAMd4pwZS-183" vertex="1">
-          <mxGeometry width="200" height="139.99857142857144" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-179" value="- Definição do cenário ideal" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
-          <mxGeometry y="26" width="200" height="27.428571428571427" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-180" value="- Criação dos níveis itermediários" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
-          <mxGeometry y="53.42857142857143" width="200" height="36.57" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-181" value="- Construção da tabela e gráficos" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
-          <mxGeometry y="89.99857142857144" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-182" value="- Elaborar guia técnico" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-183" vertex="1">
-          <mxGeometry y="130" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-190" value="" style="group" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1" connectable="0">
-          <mxGeometry x="920" y="100" width="213.60000000000002" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-191" value="Proposta de Adequações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WH3F5GCjrzszAMd4pwZS-190" vertex="1">
-          <mxGeometry x="10" y="-5" width="213.6" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-192" value="- Seleção dos tópicos para adequação" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
-          <mxGeometry y="26" width="213.6" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-193" value="- Definição das tecnologias" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
-          <mxGeometry y="70" width="213.6" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-194" value="- Próximas etapas" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
-          <mxGeometry y="100" width="213.6" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-185" target="WH3F5GCjrzszAMd4pwZS-191" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-185" value="Aplicação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
-          <mxGeometry x="630" y="90" width="199.99999999999997" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-186" value="- Análise dos manuais técnicos das máquinas" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
-          <mxGeometry y="26" width="199.99999999999997" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-187" value="- Enquadrar nos níveis" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
-          <mxGeometry y="70" width="199.99999999999997" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-188" value="- Análise de trabalhos com máquinas semelhantes&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
-          <mxGeometry y="100" width="199.99999999999997" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WH3F5GCjrzszAMd4pwZS-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-178" target="WH3F5GCjrzszAMd4pwZS-185" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UMz1MuO6VjXJgfHuIUR9-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Pesquisa&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="60" y="40" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UMz1MuO6VjXJgfHuIUR9-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Informacional&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="370" y="40" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UMz1MuO6VjXJgfHuIUR9-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Conceitual&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="670" y="40" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UMz1MuO6VjXJgfHuIUR9-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Detalhado&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WH3F5GCjrzszAMd4pwZS-1">
-          <mxGeometry x="980" y="40" width="120" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2021-07-22T18:50:49.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="voVo3uZHxi6gu7eq95fN" version="14.9.0" type="github" pages="5">
   <diagram name="V3 - P1" id="4r5GuAT5PZa9B6LZIGdJ">
-    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="isWovIk_fnL1snS7_2ZL-0" />
         <mxCell id="isWovIk_fnL1snS7_2ZL-1" parent="isWovIk_fnL1snS7_2ZL-0" />
@@ -108,8 +22,11 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-37" value="- Selecionar manuais direcionados as funcionalidades ou conectividade" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-35" vertex="1">
           <mxGeometry y="61.56390977443609" width="223.6" height="40.41353383458647" as="geometry" />
         </mxCell>
+        <mxCell id="P2y5N1_uwBhZnQKxRxDL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-45" target="isWovIk_fnL1snS7_2ZL-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-45" value="Visualização das Informações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="330" y="203" width="213.6" height="180" as="geometry" />
+          <mxGeometry x="330" y="205" width="213.6" height="180" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-46" value="- Avaliar presença de IHM nas máquinas, que permita acompanhar o andamento do processo&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-45" vertex="1">
           <mxGeometry y="26" width="213.6" height="54" as="geometry" />
@@ -120,8 +37,11 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-48" value="- Questionar sobre uso de Realidade Aumenta, como auxílio na produção" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-45" vertex="1">
           <mxGeometry y="140" width="213.6" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P2y5N1_uwBhZnQKxRxDL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-53" target="isWovIk_fnL1snS7_2ZL-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-53" value="Automatização do Processo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="570" y="440" width="213.6" height="180" as="geometry" />
+          <mxGeometry x="577" y="440" width="213.6" height="180" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-54" value="- Buscar capítulo com informações sobre o controlador" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-53" vertex="1">
           <mxGeometry y="26" width="213.6" height="54" as="geometry" />
@@ -469,6 +389,9 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-283" value="- Coletar manual dos controladores, direcionados a parte da comunicação" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-281" vertex="1">
           <mxGeometry y="80" width="213.6" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P2y5N1_uwBhZnQKxRxDL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-291" target="isWovIk_fnL1snS7_2ZL-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-291" value="Protocolos de Comunicação" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="570" y="687.2" width="213.6" height="180" as="geometry" />
         </mxCell>
@@ -608,14 +531,91 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-361" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="2701" y="780.99" width="58.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-364" value="Sensoriamento" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="320" y="920" width="213.6" height="140" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Metodologia" id="YLmV6TBlqWY2d9xGgM-X">
+    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-0" />
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-1" parent="WH3F5GCjrzszAMd4pwZS-0" />
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-174" target="WH3F5GCjrzszAMd4pwZS-180" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-365" value="" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-364" vertex="1">
-          <mxGeometry y="26" width="213.6" height="54" as="geometry" />
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-174" value="Pesquisas" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="20" y="91.71" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-366" value="- Coletar manual dos controladores, direcionados a parte da comunicação" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="isWovIk_fnL1snS7_2ZL-364" vertex="1">
-          <mxGeometry y="80" width="213.6" height="60" as="geometry" />
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-175" value="- Seleção de modelos de maturidade correlatos" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
+          <mxGeometry y="26" width="200" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-176" value="- Mapeamento das principais tecnologias da I4.0" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
+          <mxGeometry y="70" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-177" value="- Seleção de máquinas CNC" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-174" vertex="1">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-183" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1" connectable="0">
+          <mxGeometry x="330" y="90" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-178" value="Estruturação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WH3F5GCjrzszAMd4pwZS-183" vertex="1">
+          <mxGeometry width="200" height="139.99857142857144" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-179" value="- Definição do cenário ideal" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
+          <mxGeometry y="26" width="200" height="27.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-180" value="- Criação dos níveis itermediários" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
+          <mxGeometry y="53.42857142857143" width="200" height="36.57" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-181" value="- Construção da tabela e gráficos" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-178" vertex="1">
+          <mxGeometry y="89.99857142857144" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-182" value="- Elaborar guia técnico" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-183" vertex="1">
+          <mxGeometry y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-190" value="" style="group" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1" connectable="0">
+          <mxGeometry x="920" y="100" width="213.60000000000002" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-191" value="Proposta de Adequações" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WH3F5GCjrzszAMd4pwZS-190" vertex="1">
+          <mxGeometry x="10" y="-5" width="213.6" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-192" value="- Seleção dos tópicos para adequação" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
+          <mxGeometry y="26" width="213.6" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-193" value="- Definição das tecnologias" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
+          <mxGeometry y="70" width="213.6" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-194" value="- Próximas etapas" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-191" vertex="1">
+          <mxGeometry y="100" width="213.6" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-185" target="WH3F5GCjrzszAMd4pwZS-191" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-185" value="Aplicação do Checklist" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="630" y="90" width="199.99999999999997" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-186" value="- Análise dos manuais técnicos das máquinas" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
+          <mxGeometry y="26" width="199.99999999999997" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-187" value="- Enquadrar nos níveis" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
+          <mxGeometry y="70" width="199.99999999999997" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-188" value="- Análise de trabalhos com máquinas semelhantes&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="WH3F5GCjrzszAMd4pwZS-185" vertex="1">
+          <mxGeometry y="100" width="199.99999999999997" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH3F5GCjrzszAMd4pwZS-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WH3F5GCjrzszAMd4pwZS-1" source="WH3F5GCjrzszAMd4pwZS-178" target="WH3F5GCjrzszAMd4pwZS-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMz1MuO6VjXJgfHuIUR9-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Pesquisa&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="60" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMz1MuO6VjXJgfHuIUR9-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Informacional&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="370" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMz1MuO6VjXJgfHuIUR9-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Conceitual&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="670" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UMz1MuO6VjXJgfHuIUR9-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Detalhado&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WH3F5GCjrzszAMd4pwZS-1" vertex="1">
+          <mxGeometry x="980" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
