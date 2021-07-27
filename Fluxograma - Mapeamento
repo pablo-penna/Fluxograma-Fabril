@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T14:52:19.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="abyUD9BSGMO44MnPzuNu" version="14.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-27T14:56:37.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="whKArOc0s8fp3lBfpK05" version="14.9.2" type="github" pages="5">
   <diagram name="V3 - P1" id="4r5GuAT5PZa9B6LZIGdJ">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="isWovIk_fnL1snS7_2ZL-0" />
         <mxCell id="isWovIk_fnL1snS7_2ZL-1" parent="isWovIk_fnL1snS7_2ZL-0" />
@@ -237,7 +237,7 @@
           <mxGeometry x="1879.06" y="529" width="58.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-220" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="1956.3842109851787" y="480" width="58.06451612903226" height="20" as="geometry" />
+          <mxGeometry x="1952.3842109851787" y="480" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-222" target="isWovIk_fnL1snS7_2ZL-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -404,7 +404,7 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-294" value="- Portas I/O do controlador, para troca de dados" style="text;strokeColor=#666666;fillColor=#f5f5f5;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-291" vertex="1">
           <mxGeometry y="140" width="213.6" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-295" value="Os protocolos são utilizados atualmente para enviar dados da máquina?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
+        <mxCell id="isWovIk_fnL1snS7_2ZL-295" value="Os protocolos são padrão Ethernet?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="1168.6654838709678" y="720" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-296" target="isWovIk_fnL1snS7_2ZL-310" edge="1">
@@ -422,7 +422,7 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-299" target="isWovIk_fnL1snS7_2ZL-306" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-299" value="Utiliza somente protocolos clássicos como (Modbus, Profibus, Fieldbus, Profinet...)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
+        <mxCell id="isWovIk_fnL1snS7_2ZL-299" value="Suporta OPC-UA?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="1680.8670967741937" y="719.67" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-301" target="isWovIk_fnL1snS7_2ZL-299" edge="1">
@@ -470,10 +470,10 @@
           <mxGeometry x="1919.7563027295287" y="808.8" width="47.2027972027972" height="47.2027972027972" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-320" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="1855.3" y="731" width="58.06" height="20" as="geometry" />
+          <mxGeometry x="1889.9999999999998" y="783.32" width="58.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-321" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="1898.324210985179" y="783.3199999999999" width="58.06451612903226" height="20" as="geometry" />
+          <mxGeometry x="1962.334210985179" y="730.9999999999999" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-329" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="1066.3963027295285" y="808.8" width="47.2027972027972" height="47.2027972027972" as="geometry" />
@@ -481,55 +481,31 @@
         <mxCell id="isWovIk_fnL1snS7_2ZL-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-338" target="isWovIk_fnL1snS7_2ZL-340" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-338" value="Também utiliza protocolos IOT como (MQTT e HTTP)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
+        <mxCell id="isWovIk_fnL1snS7_2ZL-338" value="Possui rede TSN?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="2014.9270967741936" y="719.6700000000001" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-340" target="isWovIk_fnL1snS7_2ZL-318" edge="1">
+        <mxCell id="96fa29pePJvAkNBbCM9f-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-340">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2265.497701330927" y="808.8" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2266" y="832" />
-            </Array>
+            <mxPoint x="2340" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-340" target="isWovIk_fnL1snS7_2ZL-351" edge="1">
+        <mxCell id="96fa29pePJvAkNBbCM9f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-340" target="isWovIk_fnL1snS7_2ZL-355">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-340" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
           <mxGeometry x="2235.502133995037" y="719.6700000000001" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-343" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2291.0042109851793" y="727.9999999999999" width="58.06451612903226" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-351" target="isWovIk_fnL1snS7_2ZL-353" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-351" value="Possui protocolo OPC-UA implementado" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2499.997096774194" y="719.6700000000001" width="174.1935483870968" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-353" target="isWovIk_fnL1snS7_2ZL-355" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="isWovIk_fnL1snS7_2ZL-1" source="isWovIk_fnL1snS7_2ZL-353" target="isWovIk_fnL1snS7_2ZL-357" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-353" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2720.002133995037" y="719.9900000000001" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-355" value="Nível 4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2726.3963027295285" y="808.8" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+          <mxGeometry x="2241.8963027295285" y="803.32" width="47.2027972027972" height="47.2027972027972" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-357" value="Nível 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2829.9963027295285" y="726.0699999999999" width="47.2027972027972" height="47.2027972027972" as="geometry" />
+          <mxGeometry x="2339.9963027295285" y="726.0699999999999" width="47.2027972027972" height="47.2027972027972" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-359" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2773.5942109851794" y="730.9999999999999" width="58.06451612903226" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="isWovIk_fnL1snS7_2ZL-360" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2220" y="783.32" width="58.06" height="20" as="geometry" />
+          <mxGeometry x="2287.0942109851794" y="728.9999999999999" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="isWovIk_fnL1snS7_2ZL-361" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="isWovIk_fnL1snS7_2ZL-1" vertex="1">
-          <mxGeometry x="2701" y="780.99" width="58.06" height="20" as="geometry" />
+          <mxGeometry x="2220" y="779.99" width="58.06" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
