@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T22:14:38.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="95JCNzk54hbAYHmdtq5r" version="14.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-30T22:16:20.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="1OyhdeIw5gCeJDAhhLPq" version="14.9.3" type="github" pages="5">
   <diagram name="V3 - P1" id="4r5GuAT5PZa9B6LZIGdJ">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -712,9 +712,6 @@
         <mxCell id="7NEQk-AcwJHbyD1cbY5C-49" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
           <mxGeometry x="1687" y="120.9" width="58.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7NEQk-AcwJHbyD1cbY5C-80" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
-          <mxGeometry x="1226.4063027295288" y="640" width="47.2027972027972" height="47.2027972027972" as="geometry" />
-        </mxCell>
         <mxCell id="7NEQk-AcwJHbyD1cbY5C-83" value="Equipamentos apresentam autenticação de usuário?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NEQk-AcwJHbyD1cbY5C-1" vertex="1">
           <mxGeometry x="1132.9954838709677" y="230" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
@@ -1049,10 +1046,10 @@
         <mxCell id="Q2ZbcBwXbRTsKWIjQUbg-31" value="- Mapear tecnologias utilizadas para segurança na comunicação de dados&#xa;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="Q2ZbcBwXbRTsKWIjQUbg-26" vertex="1">
           <mxGeometry y="137.43" width="213.6" height="42.57" as="geometry" />
         </mxCell>
-        <mxCell id="4B6EVt-XNCjJAoUBnqem-1" value="Equipamentos apresentam autenticação de usuário?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
+        <mxCell id="4B6EVt-XNCjJAoUBnqem-1" value="Softwares MES ou MRP implantados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
           <mxGeometry x="1142.8654838709676" y="440" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4B6EVt-XNCjJAoUBnqem-2" value="Firewall e Antivírus implementados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
+        <mxCell id="4B6EVt-XNCjJAoUBnqem-2" value="Ferramentas de planilhas de dados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
           <mxGeometry x="839.87" y="443" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="4B6EVt-XNCjJAoUBnqem-3" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
@@ -1064,7 +1061,7 @@
         <mxCell id="4B6EVt-XNCjJAoUBnqem-5" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
           <mxGeometry x="1094.4742109851788" y="448.4" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4B6EVt-XNCjJAoUBnqem-6" value="Possui rede interna para troca de dados (Intranet)?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
+        <mxCell id="4B6EVt-XNCjJAoUBnqem-6" value="Utiliza softwares ERP ou superiores?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
           <mxGeometry x="1459.8670967741937" y="440" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B6EVt-XNCjJAoUBnqem-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7NEQk-AcwJHbyD1cbY5C-1" source="4B6EVt-XNCjJAoUBnqem-8" target="4B6EVt-XNCjJAoUBnqem-6">
@@ -1076,7 +1073,7 @@
         <mxCell id="4B6EVt-XNCjJAoUBnqem-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7NEQk-AcwJHbyD1cbY5C-1" source="4B6EVt-XNCjJAoUBnqem-1" target="4B6EVt-XNCjJAoUBnqem-8">
           <mxGeometry x="939.87" y="427" as="geometry" />
         </mxCell>
-        <mxCell id="4B6EVt-XNCjJAoUBnqem-10" value="Blockchain, Criptografia e assinaturas digitais implementadas?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
+        <mxCell id="4B6EVt-XNCjJAoUBnqem-10" value="Plataformas de BI implementadas?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
           <mxGeometry x="1794.1964516129033" y="440" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B6EVt-XNCjJAoUBnqem-11" value="Nível 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NEQk-AcwJHbyD1cbY5C-1">
