@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T21:11:21.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="k7AxiUwmbpKxU0uiJbJY" version="14.9.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-22T21:13:37.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="6ZNAQWGD8PkEPl-C6ojm" version="14.9.8" type="github" pages="10">
   <diagram id="9Ma3kIfUsQH9OrOSSWZr" name="Recomendações Gerais">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2976,8 +2976,11 @@
       <root>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-0" />
         <mxCell id="KutXOlyVLsXSIqnUMBkl-1" parent="KutXOlyVLsXSIqnUMBkl-0" />
+        <mxCell id="KutXOlyVLsXSIqnUMBkl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
+          <mxGeometry x="1273" y="74" width="470" height="207" as="geometry" />
+        </mxCell>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-13" value="Tecnologia da Informação" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
-          <mxGeometry x="1517.2000000000003" y="130" width="213.6" height="110" as="geometry" />
+          <mxGeometry x="1282.0000000000002" y="122.5" width="213.6" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-14" value="- Levantamento dos softwares e funcionalidades de cada um" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-13">
           <mxGeometry y="26" width="213.6" height="44" as="geometry" />
@@ -2985,11 +2988,8 @@
         <mxCell id="KutXOlyVLsXSIqnUMBkl-15" value="- Listar os métodos utilizados para gestão e segurança de dados" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-13">
           <mxGeometry y="70" width="213.6" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KutXOlyVLsXSIqnUMBkl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.003;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KutXOlyVLsXSIqnUMBkl-1" source="KutXOlyVLsXSIqnUMBkl-19" target="KutXOlyVLsXSIqnUMBkl-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-17" value="Gerenciamento Industrial" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
-          <mxGeometry x="1283" y="130" width="200" height="110" as="geometry" />
+          <mxGeometry x="1530" y="122.5" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-18" value="- Alinhamento sobre gerenciamento da produção" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-17">
           <mxGeometry y="26" width="200" height="44" as="geometry" />
@@ -2999,9 +2999,6 @@
         </mxCell>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Parte 2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
           <mxGeometry x="1443" y="44" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KutXOlyVLsXSIqnUMBkl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
-          <mxGeometry x="1273" y="74" width="470" height="207" as="geometry" />
         </mxCell>
         <mxCell id="N4OfDtQeootVIsfYFVNf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KutXOlyVLsXSIqnUMBkl-1" target="KutXOlyVLsXSIqnUMBkl-25">
           <mxGeometry relative="1" as="geometry">
@@ -3013,6 +3010,9 @@
         </mxCell>
         <mxCell id="N4OfDtQeootVIsfYFVNf-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Parte 1&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KutXOlyVLsXSIqnUMBkl-1">
           <mxGeometry x="1178" y="147" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqlaJfarRaedKhySuVzD-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KutXOlyVLsXSIqnUMBkl-1" source="KutXOlyVLsXSIqnUMBkl-14" target="KutXOlyVLsXSIqnUMBkl-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
