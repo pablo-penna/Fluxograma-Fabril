@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T18:59:46.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="_gJ2AAcICFb_WoGRnhMb" version="14.9.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-08-22T19:02:43.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="sU1lXv7Hb40T-CQ0iIJX" version="14.9.8" type="github" pages="9">
   <diagram id="9Ma3kIfUsQH9OrOSSWZr" name="Recomendações Gerais">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2828,7 +2828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Metodologia" id="YLmV6TBlqWY2d9xGgM-X">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WH3F5GCjrzszAMd4pwZS-0" />
         <mxCell id="WH3F5GCjrzszAMd4pwZS-1" parent="WH3F5GCjrzszAMd4pwZS-0" />
@@ -2914,7 +2914,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Passo a Passo do Guia" id="upVCWZotWvQKpSbBp57l">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="FYbWbBN6762GVOsXtmXV-0" />
         <mxCell id="FYbWbBN6762GVOsXtmXV-1" parent="FYbWbBN6762GVOsXtmXV-0" />
@@ -2952,7 +2952,7 @@
           <mxGeometry y="26" width="200" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wn1Ls1w-SUftx7HTWrtV-8" value="Tecnologia da Informação" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FYbWbBN6762GVOsXtmXV-1">
-          <mxGeometry x="941.2" y="131" width="213.6" height="110" as="geometry" />
+          <mxGeometry x="1564.2000000000003" y="130" width="213.6" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wn1Ls1w-SUftx7HTWrtV-9" value="- Levantamento dos softwares e funcionalidades de cada um" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="wn1Ls1w-SUftx7HTWrtV-8">
           <mxGeometry y="26" width="213.6" height="44" as="geometry" />
@@ -2964,7 +2964,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWjTxGYBwW_b8FIq_v3C-0" value="Gerenciamento Industrial" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;html=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FYbWbBN6762GVOsXtmXV-1">
-          <mxGeometry x="707" y="131" width="200" height="110" as="geometry" />
+          <mxGeometry x="1330" y="130" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aWjTxGYBwW_b8FIq_v3C-1" value="- Alinhamento sobre gerenciamento da produção" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="aWjTxGYBwW_b8FIq_v3C-0">
           <mxGeometry y="26" width="200" height="44" as="geometry" />
@@ -2973,7 +2973,7 @@
           <mxGeometry y="70" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aWjTxGYBwW_b8FIq_v3C-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Parte 2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FYbWbBN6762GVOsXtmXV-1">
-          <mxGeometry x="865" y="57" width="120" height="30" as="geometry" />
+          <mxGeometry x="1490" y="44" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aWjTxGYBwW_b8FIq_v3C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FYbWbBN6762GVOsXtmXV-1" source="wn1Ls1w-SUftx7HTWrtV-4" target="FYbWbBN6762GVOsXtmXV-30">
           <mxGeometry relative="1" as="geometry" />
@@ -2988,7 +2988,7 @@
           <mxGeometry y="87" width="690" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AUmLBOHcXxfQu2FYI478-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="FYbWbBN6762GVOsXtmXV-1">
-          <mxGeometry x="690" y="86" width="470" height="207" as="geometry" />
+          <mxGeometry x="1320" y="74" width="470" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
