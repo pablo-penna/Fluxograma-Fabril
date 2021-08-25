@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T01:01:34.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="gYGpJYX2U8zgYl0XGO2P" version="14.9.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-08-25T01:02:23.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2QrW3avQ55C5HRSga_68" version="14.9.8" type="github" pages="9">
   <diagram id="9Ma3kIfUsQH9OrOSSWZr" name="Recomendações Gerais">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,10 +232,10 @@
         <mxCell id="8l81E2i1X21ZT2T7B6Wy-27" value="- Analisar as vantagens, desvantagens e indicação de uso para cada tecnologia" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="8l81E2i1X21ZT2T7B6Wy-26">
           <mxGeometry y="26" width="200" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="8l81E2i1X21ZT2T7B6Wy-28" value="- " style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="8l81E2i1X21ZT2T7B6Wy-26">
+        <mxCell id="8l81E2i1X21ZT2T7B6Wy-28" value="- Avaliação do método de implementação" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="8l81E2i1X21ZT2T7B6Wy-26">
           <mxGeometry y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8l81E2i1X21ZT2T7B6Wy-29" value="- Entendimento da estrutura de rede" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="8l81E2i1X21ZT2T7B6Wy-26">
+        <mxCell id="8l81E2i1X21ZT2T7B6Wy-29" value="- Visão sistémica dos recursos" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" vertex="1" parent="8l81E2i1X21ZT2T7B6Wy-26">
           <mxGeometry y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8l81E2i1X21ZT2T7B6Wy-32" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Objetivo:&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ft6Mxcko02tsD6QiPkqj-1">
