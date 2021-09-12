@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T13:04:49.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0sR_fxzrTI8Ouen6ti3C" version="15.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-09-12T19:36:01.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="TKWu7G2oQT1Y3sLJPdjO" version="15.1.4" type="github" pages="10">
   <diagram id="9Ma3kIfUsQH9OrOSSWZr" name="Recomendações Gerais">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KYtvhkuRLCbTWZn4hD7U-0" />
         <mxCell id="KYtvhkuRLCbTWZn4hD7U-1" parent="KYtvhkuRLCbTWZn4hD7U-0" />
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2 - Recomendações Gerais" id="ogDaTSXHe3bK0f7VZQ0q">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ft6Mxcko02tsD6QiPkqj-0" />
         <mxCell id="Ft6Mxcko02tsD6QiPkqj-1" parent="Ft6Mxcko02tsD6QiPkqj-0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V4 - P1" id="fkyVJtkHbrFuINdsKFQJ">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-0" />
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-1" parent="6tQ_2BtzynzlW6wn9MB7-0" />
@@ -470,7 +470,7 @@
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-58" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
           <mxGeometry x="947.604210985179" y="526" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6tQ_2BtzynzlW6wn9MB7-59" value="A linha possui flexibilidade para a produção?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
+        <mxCell id="6tQ_2BtzynzlW6wn9MB7-59" value="A verificação da qualidade é manual?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
           <mxGeometry x="1414.8670967741937" y="514" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6tQ_2BtzynzlW6wn9MB7-1" source="6tQ_2BtzynzlW6wn9MB7-61" target="6tQ_2BtzynzlW6wn9MB7-59" edge="1">
@@ -544,7 +544,7 @@
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6tQ_2BtzynzlW6wn9MB7-1" source="6tQ_2BtzynzlW6wn9MB7-83" target="6tQ_2BtzynzlW6wn9MB7-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tQ_2BtzynzlW6wn9MB7-83" value="Existem softwares de gestão para apoio nas atividades?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
+        <mxCell id="6tQ_2BtzynzlW6wn9MB7-83" value="Existem ferramentas de gestão para apoio nas atividades?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
           <mxGeometry x="839.9064516129034" y="603.8" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-84" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
@@ -3188,7 +3188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="P2 - Etapas Guia" id="RheFKgkE4OIsu-UagtGR">
-    <mxGraphModel dx="-131" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="109" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KutXOlyVLsXSIqnUMBkl-0" />
         <mxCell id="KutXOlyVLsXSIqnUMBkl-1" parent="KutXOlyVLsXSIqnUMBkl-0" />
