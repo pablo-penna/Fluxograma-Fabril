@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T19:36:01.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="TKWu7G2oQT1Y3sLJPdjO" version="15.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-10-10T13:58:16.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="JSx7LE7ykV0fWnDy5Es6" version="15.1.4" type="github" pages="10">
   <diagram id="9Ma3kIfUsQH9OrOSSWZr" name="Recomendações Gerais">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KYtvhkuRLCbTWZn4hD7U-0" />
         <mxCell id="KYtvhkuRLCbTWZn4hD7U-1" parent="KYtvhkuRLCbTWZn4hD7U-0" />
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2 - Recomendações Gerais" id="ogDaTSXHe3bK0f7VZQ0q">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ft6Mxcko02tsD6QiPkqj-0" />
         <mxCell id="Ft6Mxcko02tsD6QiPkqj-1" parent="Ft6Mxcko02tsD6QiPkqj-0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V4 - P1" id="fkyVJtkHbrFuINdsKFQJ">
-    <mxGraphModel dx="1504" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-0" />
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-1" parent="6tQ_2BtzynzlW6wn9MB7-0" />
@@ -559,7 +559,7 @@
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-87" value="Nível 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
           <mxGeometry x="1785.8563027295286" y="520.4" width="47.2027972027972" height="47.2027972027972" as="geometry" />
         </mxCell>
-        <mxCell id="6tQ_2BtzynzlW6wn9MB7-88" value="Possui IHM para acesso remoto?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
+        <mxCell id="6tQ_2BtzynzlW6wn9MB7-88" value="Possui interface para acesso remoto?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
           <mxGeometry x="948.1354838709676" y="314" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tQ_2BtzynzlW6wn9MB7-89" value="Possui algum tipo de IHM das máquinas?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6tQ_2BtzynzlW6wn9MB7-1" vertex="1">
@@ -963,7 +963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V4 - P2" id="P80CLBPkPnGoc-WEoJtO">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-0" />
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-1" parent="es2Z7i9XoCDgGCNFH2eT-0" />
@@ -985,10 +985,10 @@
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-5" value="- Categorizar conforme as funcionalidades" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;" parent="es2Z7i9XoCDgGCNFH2eT-3" vertex="1">
           <mxGeometry y="70" width="421.81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="es2Z7i9XoCDgGCNFH2eT-6" value="Padrão de rede industrial sem fio?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
+        <mxCell id="es2Z7i9XoCDgGCNFH2eT-6" value="Velocidade padrão Fast ou Giga Ethernet?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="942.8854838709677" y="91.9" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="es2Z7i9XoCDgGCNFH2eT-7" value="Existem rede cabeada acessíveis às máquinas?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
+        <mxCell id="es2Z7i9XoCDgGCNFH2eT-7" value="Existe estrutura de rede Wireless?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="639.89" y="94.9" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-8" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
@@ -1000,7 +1000,7 @@
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-10" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="894.4942109851789" y="100.30000000000001" width="58.06451612903226" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="es2Z7i9XoCDgGCNFH2eT-11" value="Possui servidores remotos para armazenamento dos dados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
+        <mxCell id="es2Z7i9XoCDgGCNFH2eT-11" value="Os cabos utilizados são de Fibra Óptica?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="1259.8870967741939" y="91.9" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="es2Z7i9XoCDgGCNFH2eT-1" source="es2Z7i9XoCDgGCNFH2eT-13" target="es2Z7i9XoCDgGCNFH2eT-11" edge="1">
@@ -1162,7 +1162,7 @@
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="es2Z7i9XoCDgGCNFH2eT-1" source="es2Z7i9XoCDgGCNFH2eT-65" target="es2Z7i9XoCDgGCNFH2eT-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="es2Z7i9XoCDgGCNFH2eT-65" value="Estrutura de rede em 5G" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
+        <mxCell id="es2Z7i9XoCDgGCNFH2eT-65" value="Estrutura de rede em 5G?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="1690.22" y="88.9" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="es2Z7i9XoCDgGCNFH2eT-1" source="es2Z7i9XoCDgGCNFH2eT-68" target="es2Z7i9XoCDgGCNFH2eT-71" edge="1">
@@ -1228,7 +1228,7 @@
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-125" value="Softwares MES ou MRP implantados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="946.8654838709676" y="547" width="174.1935483870968" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="es2Z7i9XoCDgGCNFH2eT-126" value="Ferramentas de planilhas de dados?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
+        <mxCell id="es2Z7i9XoCDgGCNFH2eT-126" value="Utiliza sistemas supervisórios?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
           <mxGeometry x="643.87" y="550" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="es2Z7i9XoCDgGCNFH2eT-127" value="Nível 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="es2Z7i9XoCDgGCNFH2eT-1" vertex="1">
